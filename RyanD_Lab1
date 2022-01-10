@@ -1,5 +1,5 @@
     //Fiddle Link: https://jsfiddle.net/drisryp/8xrb026g/40/
-    google.charts.load('current', {'packages':['gantt']});
+   google.charts.load('current', {'packages':['gantt']});
     google.charts.setOnLoadCallback(drawChart);
 
     function daysToMilliseconds(days) {
